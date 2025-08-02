@@ -1,0 +1,33 @@
+body {
+    font-family: Arial;
+    max-width: 800px;
+    background-color: #9db7eb;
+    color: #234;
+    margin: 0 auto;
+    padding: 40px;
+    min-height: 100vh;
+}
+
+.quiz-container {
+    background: white;
+    border-radius: 15px;
+    padding: 25px;
+    margin-bottom: 30px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+}
+
+h1 {
+    color: #1064a3;
+}
+
+button {
+    margin: 10px 4px;
+    padding: 10px 20px;
+    background-color: blanchedalmond;
+}
+
+#feedback {
+    margin-top: 20px;
+    font-weight: bold;
+}
